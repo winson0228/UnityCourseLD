@@ -1,0 +1,20 @@
+two project tiles, three
+make the map look like its moving forward
+new various enemy formation spawning
+sounds for each stage
+ - LUNA instrumental
+ - DEAN instrumental
+power ups
+ -projectiles deal more dmg
+ -travel faster
+ -size become wider
+ -different shapes
+ -different types of projectile (eg. explode when hit)
+
+melee
+ -sword at the edge of ship
+ -swing out animation
+ -deflect bullets and turn it to its own projectile
+  -include sound when deflected?
+
+create 5 stages
